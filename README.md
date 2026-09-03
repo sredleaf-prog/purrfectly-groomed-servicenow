@@ -1,4 +1,4 @@
-![Purrfectly Groomed](./images/purrfectly-groomed-logo.png)
+![Purrfectly Groomed](./purrfectly-groomed-logo.png)
 
 # Purrfectly Groomed
 
@@ -13,6 +13,7 @@ Purrfectly Groomed lets pet owners:
 - Search a Knowledge Base for pet care articles
 - Leave reviews for completed services
 
+![Service Portal Home](./service-portal-home.png)
 
 ## My Role
 
@@ -27,7 +28,7 @@ This was a group project; the full team is credited below.
 
 | Name | Role |
 |---|---|
-| Sahai Redleaf | Scrum Master / Developer |
+| Sahai Redleaf | Scrum Master / Scheduling & Booking Pipeline |
 | Maram Naser | Developer |
 | Nithya Ananda Raj | Service Portal Developer |
 | Edward Argueta | System Security |
@@ -39,6 +40,11 @@ Built during a 10-week NextGen ServiceNow training program covering platform
 fundamentals, core configuration, process automation (business rules, client 
 scripts, UI policies), the Service Catalog, workflows, and Service Portal 
 customization.
+
+## Notes
+
+This was a training-program capstone built in a sandbox ServiceNow instance; 
+it is not a live/production application.
 
 ## Notes
 
