@@ -1,4 +1,4 @@
-![Purrfectly Groomed](.image/purrfectly-groomed-logo.png)
+![Purrfectly Groomed](./image/purrfectly-groomed-logo.png)
 
 # Purrfectly Groomed
 
@@ -13,7 +13,7 @@ Purrfectly Groomed lets pet owners:
 - Search a Knowledge Base for pet care articles
 - Leave reviews for completed services
 
-![Service Portal Home](.image/service-portal-home.png)
+![Service Portal Home](./image/service-portal-home.png)
 
 ## My Role
 
