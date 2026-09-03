@@ -45,8 +45,3 @@ customization.
 
 This was a training-program capstone built in a sandbox ServiceNow instance; 
 it is not a live/production application.
-
-## Notes
-
-This was a training-program capstone built in a sandbox ServiceNow instance; 
-it is not a live/production application.
